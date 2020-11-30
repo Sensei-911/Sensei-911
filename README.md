@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Discord `Sensei#0001
 - 😄 Pronouns: He/Him
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Sensei-911/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sensei-911)](https://github.com/Sensei-911/github-readme-stats)
