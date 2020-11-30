@@ -10,3 +10,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Discord.js
 - 📫 How to reach me: Discord `Sensei#0001
 - 😄 Pronouns: He/Him
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Sensei-911/github-readme-stats)
