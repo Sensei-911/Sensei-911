@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sensei-911)](https://github.com/Sensei-911/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SenseiChan)](https://github.com/Sensei-911/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=f9c3099f-481b-422f-aad8-1991cdeac2bd)](https://github.com/Sensei-911/github-readme-stats)
 
