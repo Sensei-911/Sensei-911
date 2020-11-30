@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning javascript,python,css
 - 🤔 I’m looking for help with api
 - 💬 Ask me about discord.js 
-- 📫 How to reach me: Discord `Sensei#0001
+- 📫 How to reach me: Discord **`Sensei#0001**
 - 😄 Pronouns: He/Him
 
 ![Sensei's github stats](https://github-readme-stats.vercel.app/api?username=Sensei-911&show_icons=true&theme=radical)
