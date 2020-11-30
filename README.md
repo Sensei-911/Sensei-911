@@ -1,11 +1,11 @@
 ### OwO you are here ha? i'm glad you came here
 
-Here are some ideas to get you started:
+**Here are some informations about me**
 
-- 🔭 I’m currently working on Student
-- 🌱 I’m currently learning javascript
-- 🤔 I’m looking for help with Css
-- 💬 Ask me about Discord.js
+- 🔭 I’m currently working on a discord bot
+- 🌱 I’m currently learning javascript,python,css
+- 🤔 I’m looking for help with api
+- 💬 Ask me about discord.js 
 - 📫 How to reach me: Discord `Sensei#0001
 - 😄 Pronouns: He/Him
 
