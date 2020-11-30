@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 
 ![Sensei's github stats](https://github-readme-stats.vercel.app/api?username=Sensei-911&show_icons=true&theme=radical)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sensei-911)](https://github.com/Sensei-911/github-readme-stats)
