@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...Discord `Sensei#0001
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...
--->
