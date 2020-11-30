@@ -1,4 +1,4 @@
-### Hey 👋
+### OwO you are here ha? i'm glad you came here
 
 Here are some ideas to get you started:
 
