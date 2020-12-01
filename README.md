@@ -1,4 +1,4 @@
-### OwO you are here ha? i'm glad you came here
+### OwO you are here ha? I'm glad you came here 💗
 
 **Here are some informations about me**
 
