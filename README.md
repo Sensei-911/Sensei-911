@@ -2,9 +2,9 @@
 
 **Here are some informations about me**
 
-- 🔭 I’m currently working on a discord bot
+- 🔭 I’m currently working on a discord bot project
 - 🌱 I’m currently learning javascript,python,css
-- 🤔 I’m looking for help with api
+- 🤔 I’m looking for help with javascript documents
 - 💬 Ask me about discord.js 
 - 📫 Reach me on discord **`Sensei#0001**
 - 😄 Pronouns: He/Him
