@@ -13,5 +13,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sensei-911)](https://github.com/Sensei-911/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SenseiChanIsHere123)](https://github.com/Sensei-911/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kemalbinbiriki123@gmail.com)](https://github.com/Sensei-911/github-readme-stats)
 
