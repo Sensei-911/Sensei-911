@@ -1,6 +1,4 @@
-### uWu you are here ha? I'm glad you came here 💗
-
-**Here are some informations about me**
+## Here are some informations about me
 
 - I’m currently working on discord bot projects and developing web sites
 - I’m currently learning javascript, python, c#
