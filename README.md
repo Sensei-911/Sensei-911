@@ -7,5 +7,4 @@
 - Reach me on Discord **Sensei#0005**
 - Pronouns: He/Him
 
-![Sensei's github stats](https://github-readme-stats.vercel.app/api?username=Sensei-911&show_icons=true&theme=radical) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sensei-911&theme=radical)
+![Sensei's github stats](https://github-readme-stats.vercel.app/api?username=Sensei-911&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sensei-911&theme=radical)
