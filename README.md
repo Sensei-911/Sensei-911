@@ -10,8 +10,9 @@
   - **Discord API**
   - Privacy
   - Cloud Service Providers
-  - Databases (especially mongoDB)
   - NodeJS, Jquery, ReactJS
+  - Databases (especially mongoDB)
+  - Automation
 - Reach me on Discord: **Sensei#0004**
 - Gender: Male
 ---
