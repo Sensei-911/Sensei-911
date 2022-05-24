@@ -1,8 +1,17 @@
 ## Here are some informations about me 
 
-- I’m currently working on Discord bot projects and databases.
-- I’m currently mastering to writing clean code, learning c++, java
-- Ask me about **javascript**, **python**, Discord API, html, css, nodeJS, jquery, reactJS
+- I’m currently;
+  - Practicing clean code
+  - Studying encryption
+  - Learning C++
+- Ask me about; 
+  - **JavaScript**
+  - **Python**
+  - **Discord API**
+  - Privacy
+  - Cloud Service Providers
+  - Databases (especially mongoDB and Enmap)
+  - NodeJS, Jquery, ReactJS
 - Reach me on Discord: **Sensei#0004**
 - Gender: Male
 ---
