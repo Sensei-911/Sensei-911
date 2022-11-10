@@ -3,7 +3,7 @@
 - I’m currently;
   - Practicing clean code
   - Studying encryption
-  - Learning C++
+  - Learning C#
 - Ask me about; 
   - **JavaScript** ⭐
   - **Python**
