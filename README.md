@@ -16,6 +16,6 @@
 - Reach me on Discord: **Sensei#0004**
 - Gender: Male
 ---
-![Sensei's github stats](https://github-readme-stats.vercel.app/api?username=Sensei-911&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sensei-911&theme=radical)
+![Sensei's github stats](https://github-readme-stats-f3c5d9dn4-sensei-911.vercel.app/api?username=Sensei-911&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats-f3c5d9dn4-sensei-911.vercel.app/api/top-langs/?username=Sensei-911&theme=radical)
 
 ![Image](https://komarev.com/ghpvc/?username=Sensei-911&color=7289da)
