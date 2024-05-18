@@ -1,20 +1,19 @@
-## Here are some informations about me 
+## Some information about me 
 
 - I’m currently;
-  - Practicing clean code
+  - Studying data structures
   - Studying encryption
-  - Learning C#
+  - Learning game development
 - Ask me about; 
-  - **JavaScript** ⭐
-  - **Python**
-  - **Discord API**
+  - JavaScript ⭐
+  - Discord API
   - Privacy
+  - C#
   - Cloud Service Providers
-  - NodeJS, Jquery, ReactJS
-  - Databases (especially mongoDB)
+  - NodeJS
+  - MongoDB, Redis
   - Automation
-- Reach me on Discord: **Sensei#0004**
-- Gender: Male
+- Reach me on Discord: **Sensei0004**
 ---
 ![Sensei's github stats](https://github-readme-stats-f3c5d9dn4-sensei-911.vercel.app/api?username=Sensei-911&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats-f3c5d9dn4-sensei-911.vercel.app/api/top-langs/?username=Sensei-911&theme=radical)
 
